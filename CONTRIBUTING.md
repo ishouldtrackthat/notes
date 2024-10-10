@@ -1,4 +1,4 @@
-# Instruction
+# Instructions
 1. Get added to organization
 1. Create a folder for the organization with `mkdir ishouldtrackthat`
 1. `cd ishouldtrackthat`
