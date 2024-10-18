@@ -22,3 +22,7 @@
 1. `git push origin`
 1. Go to the project [Pull requests](https://github.com/ishouldtrackthat/notes/pulls)
 1. Find your commit and create a pull request
+1. In the pull request page you would see this CLAassisstant comment if you have not signed the agreement (note: you only have to sign once when you create your first Pull Rrequest in the project):![alt text](cla-not-signed.png)
+1. Click the 'Contributor License Agreement' link and follow the instruction to sign the agreement. 
+1. After you finished, you should see the updated comment indicating that you have signed the agreement
+![alt text](cla-signed.png)
